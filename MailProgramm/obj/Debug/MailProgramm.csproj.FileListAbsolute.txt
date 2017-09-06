@@ -1,0 +1,7 @@
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\MailProgramm\MailProgramm\obj\Debug\MailProgramm.csprojResolveAssemblyReference.cache
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\MailProgramm\MailProgramm\obj\Debug\MailProgramm.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\MailProgramm\MailProgramm\bin\Debug\MailProgramm.exe.config
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\MailProgramm\MailProgramm\bin\Debug\MailProgramm.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\MailProgramm\MailProgramm\bin\Debug\MailProgramm.pdb
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\MailProgramm\MailProgramm\obj\Debug\MailProgramm.exe
+C:\Users\User2\Documents\Visual Studio 2017\Projects\C# Projects\Training projects\MailProgramm\MailProgramm\obj\Debug\MailProgramm.pdb
