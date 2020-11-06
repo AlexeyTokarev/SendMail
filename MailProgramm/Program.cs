@@ -18,7 +18,7 @@ class Program
 
             MailMessage mail = new MailMessage();
             mail.From = new MailAddress("bo9zeoq0l6@mail.ru", "Бот техподдержки");
-            mail.To.Add("tanuharumiantseva@gmail.com");
+            mail.To.Add("[Адрес получателя]");
             mail.Subject = string.Format("Hello");
             mail.Body = string.Format("<h3><b>Спокойной ночи</b></h3>");
             mail.IsBodyHtml = true;
@@ -31,12 +31,12 @@ class Program
     //{
     //    SmtpClient smtp = new SmtpClient("smtp.mail.ru", 587);
 
-    //    smtp.Credentials = new NetworkCredential("tokalig@mail.ru", "19920710tai");
+    //    smtp.Credentials = new NetworkCredential("[Адрес отправителя]", "[Пароль отправителя]");
     //    smtp.EnableSsl = true;
 
     //    MailMessage mail = new MailMessage();
-    //    mail.From = new MailAddress("tokalig@mail.ru", "Aleksey");
-    //    mail.To.Add("tokalig@yandex.ru");
+    //    mail.From = new MailAddress("[Адрес отправителя]", "[Имя отправителя]");
+    //    mail.To.Add("[Адрес получателя]");
     //    mail.Subject = string.Format("Hello");
     //    mail.Body = string.Format("<h1>Hello world!</h1>");
     //    mail.IsBodyHtml = true;
